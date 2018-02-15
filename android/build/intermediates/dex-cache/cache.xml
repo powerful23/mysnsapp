@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/wezhuo/testplace/mysnsapp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/wezhuo/testplace/mysnsapp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_63bb9828144f5129756a681bc6f6bc9b3756a06e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wezhuo/testplace/mysnsapp/android/app/build/intermediates/exploded-aar/com.amazonaws/aws-android-sdk-mobile-client/2.6.13/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0f3713ea70a08568ce2bf57b9f8272be2ee1c29c">
+        <dex dex="/Users/wezhuo/testplace/mysnsapp/android/app/build/intermediates/pre-dexed/debug/com.amazonaws-aws-android-sdk-mobile-client-2.6.13_a1f43e3eb9500bbe06202e3718f9bbb9a2436036.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wezhuo/testplace/mysnsapp/android/app/build/intermediates/exploded-aar/mysnsapp/aws-amplify-react-native/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a7d145cd27fdc5dcda4418a6d6f8e7f16574c95d">
+        <dex dex="/Users/wezhuo/testplace/mysnsapp/android/app/build/intermediates/pre-dexed/debug/mysnsapp-aws-amplify-react-native-unspecified_7e6acab740252c1dd6e553992129ba2e7fad01ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wezhuo/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/wezhuo/testplace/mysnsapp/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_5e3dd9b495a8d3071b27c79b03e50d6cfaa60a1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wezhuo/testplace/mysnsapp/android/app/build/intermediates/exploded-aar/mysnsapp/aws-amplify-react-native/unspecified/jars/libs/aws-android-sdk-cognito-2.6.13.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6281a25fbb4343035c1e54045b2bd7797359cf07">
+        <dex dex="/Users/wezhuo/testplace/mysnsapp/android/app/build/intermediates/pre-dexed/debug/aws-android-sdk-cognito-2.6.13_c4f029d4cd017645a5a69a5f53b7fc9538b45528.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wezhuo/testplace/mysnsapp/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/11.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="264ad23f9752aabecfa41115c52a25a023a08839">
+        <dex dex="/Users/wezhuo/testplace/mysnsapp/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-11.8.0_9cb2d94d90a25a256f05a23ccce85716adf6ddf0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wezhuo/testplace/mysnsapp/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5ad3911825107d8dd4b017fdecebfd23c08048dd">
+        <dex dex="/Users/wezhuo/testplace/mysnsapp/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-11.8.0_2cc70585b64326d900b932ba3d0480d39706869c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wezhuo/testplace/mysnsapp/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/11.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="122de0d704f76d2bb5cb9db66e00fe90a0a41e78">
+        <dex dex="/Users/wezhuo/testplace/mysnsapp/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-11.8.0_81da6793b75ca2c53ddcb3b34a3b7e6c3d99c8f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wezhuo/testplace/mysnsapp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.50.3/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/wezhuo/testplace/mysnsapp/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_4e2abf8eeef50e5df45708c6cf0525d620b0270d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wezhuo/testplace/mysnsapp/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/11.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="42c9659c973e311ffdb645ed057e5053e0ab5c78">
+        <dex dex="/Users/wezhuo/testplace/mysnsapp/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-11.8.0_96a7401c9b91d034af4ef1767970d208c9793e3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wezhuo/testplace/mysnsapp/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/11.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d2af2ef4d987d753f2e8ee2d1480ab964d5c7273">
+        <dex dex="/Users/wezhuo/testplace/mysnsapp/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-11.8.0_92543e8a23f535717e5cb5776e70a08784f57840.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wezhuo/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/wezhuo/testplace/mysnsapp/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_24c1566ef30f1cbed55cab8f839fa1813fa623b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wezhuo/testplace/mysnsapp/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/wezhuo/testplace/mysnsapp/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.2.0_655587e8e49d55eb5dfb5d4eafb75d9cd0cb5537.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wezhuo/testplace/mysnsapp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/wezhuo/testplace/mysnsapp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_64a4789d341970290aa49da2de170455471d8d33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wezhuo/testplace/mysnsapp/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/wezhuo/testplace/mysnsapp/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.2.0_fd2b0119e2f3322643dcd372356fd79e8ec6d3bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wezhuo/testplace/mysnsapp/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/wezhuo/testplace/mysnsapp/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.2.0_6e1375053c56729a737fdf1b1c3a738e54c280e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wezhuo/testplace/mysnsapp/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/11.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c44026185adf61f12630db36ac6781481f559e7c">
+        <dex dex="/Users/wezhuo/testplace/mysnsapp/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-messaging-11.8.0_d97a01d4bc29db1b19047ded7e7c8851c885fd39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wezhuo/testplace/mysnsapp/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/wezhuo/testplace/mysnsapp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_ef49208551b45a442b71bad31c27857a3074261c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wezhuo/testplace/mysnsapp/android/app/build/intermediates/exploded-aar/com.amazonaws/aws-android-sdk-auth-core/2.6.13/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="809beff197946aae52124b01e59579509844370f">
+        <dex dex="/Users/wezhuo/testplace/mysnsapp/android/app/build/intermediates/pre-dexed/debug/com.amazonaws-aws-android-sdk-auth-core-2.6.13_2e26972ca66d10ae013d1f14788e040ee00c209e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wezhuo/testplace/mysnsapp/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/wezhuo/testplace/mysnsapp/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.2.0_dae2c85542d837edc4b53e3c5aad9551d014bb6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wezhuo/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/wezhuo/testplace/mysnsapp/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_9a1b36acd17c2307845d753cc20d4c225254a396.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wezhuo/testplace/mysnsapp/android/app/build/intermediates/exploded-aar/com.firebase/firebase-jobdispatcher/0.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="374d595ee099a19b6c1c3718cdb4c345be7a3d45">
+        <dex dex="/Users/wezhuo/testplace/mysnsapp/android/app/build/intermediates/pre-dexed/debug/com.firebase-firebase-jobdispatcher-0.6.0_db7d48b9d8dc3bc5d79fc2f3e62c944d1579ec40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wezhuo/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/wezhuo/testplace/mysnsapp/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_13847d96e6d751ebad6adfd0c691395d8ec97634.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wezhuo/testplace/mysnsapp/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/wezhuo/testplace/mysnsapp/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.2.0_64311e862cade5f7f0e0e68ae2b13cb4b1503293.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wezhuo/testplace/mysnsapp/android/app/build/intermediates/exploded-aar/mysnsapp/aws-amplify-react-native/unspecified/jars/libs/aws-android-sdk-pinpoint-2.6.13.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="42f20c2ec1bf03cca3d1236d65bc8bdf60eec89e">
+        <dex dex="/Users/wezhuo/testplace/mysnsapp/android/app/build/intermediates/pre-dexed/debug/aws-android-sdk-pinpoint-2.6.13_10dcadcf965292b122c3eb423b54bd0d7bdd738f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wezhuo/testplace/mysnsapp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/wezhuo/testplace/mysnsapp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_8cef255acc97b56470e50089fc8d2912f248d37f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wezhuo/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/wezhuo/testplace/mysnsapp/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_d13e8c2b3c9392132816e3cd21c61f6534f28a70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wezhuo/testplace/mysnsapp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/wezhuo/testplace/mysnsapp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_f9881b58176587f513a5144f70b739c80f529405.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wezhuo/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/wezhuo/testplace/mysnsapp/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_7e6b938fb1f368ed732cbf1f56e5407d07f9c40e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wezhuo/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/wezhuo/testplace/mysnsapp/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_34462fd105f16c8b4b7f9538a023c8e27223187e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wezhuo/testplace/mysnsapp/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/wezhuo/testplace/mysnsapp/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.2.0_9645a6ae2a83f522542e870f9f52f7638afcb868.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wezhuo/testplace/mysnsapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/wezhuo/testplace/mysnsapp/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_3634e266f961fdea7ac9544ae580826855f3cc6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wezhuo/testplace/mysnsapp/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/wezhuo/testplace/mysnsapp/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_1b7b3306853ac2fe6a9eb586d8d59e71bc83df40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wezhuo/testplace/mysnsapp/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/11.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e6aeff19a2ce1eb896557be73cb9ceb56f8d1cf3">
+        <dex dex="/Users/wezhuo/testplace/mysnsapp/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-11.8.0_39e0995ba7a1d6ce296da519c89e8375c3e84b46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wezhuo/testplace/mysnsapp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/wezhuo/testplace/mysnsapp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_1101ccb76308f84945ad0533729b20f15d7bb4e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wezhuo/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/wezhuo/testplace/mysnsapp/android/app/build/intermediates/pre-dexed/debug/support-annotations-25.2.0_e45a44c06d53b9444b8a8772a9444b2d4b665eee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wezhuo/testplace/mysnsapp/android/app/build/intermediates/exploded-aar/mysnsapp/aws-amplify-react-native/unspecified/jars/libs/aws-android-sdk-core-2.6.13.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dfc92d0cc30a65a5e78e3363a17b5377ae6a2794">
+        <dex dex="/Users/wezhuo/testplace/mysnsapp/android/app/build/intermediates/pre-dexed/debug/aws-android-sdk-core-2.6.13_bd64a48dc73ea4000837dac1c360dfe786c2ef7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wezhuo/testplace/mysnsapp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/wezhuo/testplace/mysnsapp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_479f78114c0acf8fb2ac603699e84f5bd9b0963d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wezhuo/testplace/mysnsapp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.50.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="24303e5ddb2c1210dd7e8db9dbab018f50313e48">
+        <dex dex="/Users/wezhuo/testplace/mysnsapp/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.50.3_c71562428306cae0614f99b7c7fb6bc000047f5d.jar" />
+    </item>
+
+</items>
